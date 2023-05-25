@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ace-luxury-store",
+  "private_key_id": "e2e1637770c0eed0bf5218fd2a9a980889703066",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCW05ov3xePP2gT\nkYtC2XkXNQDP5CZJu43rt/9TlGKJJt2z7ZvmnTnn/uVIDR2ca6p3Bbi5Zpvcl9cB\nunSD29wRQvQKw5nQ1yvzZQz7BaNgqscf8GE9/tk2QF3wSmPaaBi26OiN+znNSK8q\nifTMRDTanyYT3FTNBqT7dCR/co7F3ujO8MEknUE9EqHw1zpS/cRkOdTwspAZfmG0\nHD+PCVai2FMGX1NpOloqHMotJ31HA0XZcs2z18HNM6qmhtFQCsxtE0PnZyj1U72s\n5fW5YjFMTAOd6cxfUVmNyN7r5UeK5AzWMAsI/yjBWV482UTTS3BuJWEpsCSAadtC\nDC3LLWBDAgMBAAECggEAKJ83MNuCKeem7VZOzqNp9LEm1dcZ5NPp5mm5D9awL0ZT\ngelmCtefx/cj46L8ratlzwaweObE5cXTd7izNuxZOiDxP5Ds9Y1uXfCCbX1YQmnc\nlaKVXjAsamstodE3UZSly2WxdMQMDlkcLHXZg8Z/Ab7Jb6HxCQNYHg1q4xSElZAI\n4G2nsZZipG0dnqyXAHJB+Zt3IrSJxsKcg28ivq1EZObmL1EVfVu6jn/mOIZyrLJ9\nvmE+eZpd2sMb2SGDPLqsNPPR30tRyPMDxvC/78UKbVTCGr84lpdDY8yERWi3Yzqp\n6eqDgjdMCwq11iiu2z6Z4GNU+pJdD2wmVGksjj/u2QKBgQDO/czJhTbCNsLtk0CB\nCAXOngXioExVQ4vU023Qo8TKxEa2Tom/KaE5JG3mWnMOSZsI6bMat764T656xz18\nOGaIjuUD24oPdELOiqcrt09SrakpQOklzTYIwkACNR5m9I5Vl0FywfXLLzwP/1Kz\nzFfIV8TR9nChAyb+9bOUUwfI3QKBgQC6iYeEXENLBKHoyLVCGmhIchsMQhqLQL69\ndqbjjuycbgwFFOYdpcHTrA9TyIrvtKfURGQY/VU4O6VvC7DS0a2tw0p59PXBGhSI\n8XojjynTX8aN2bLDLJlwDI4J84R0XQuow1PduUwiskliIF3A7treVJRRGRB/tP6r\nRL0uZhyrnwKBgGS8oijFO1QjwJRM4MyrMeBPib+0kdHBMNFgIIa03TZtdZiN+n3d\nbchYkV/VTz951Qjua6sqF5itttWsF6FX9ZaqLIzHEJba1xSb6CXfbaxoNfaMz6sF\nBzIWD37DiUtD4+2F0mVePhgnocyLTx2P6nznMjOZA1FpLlZRD5e1HQnFAoGBAJqP\n4FElHcEoKnw26jHGrcfxfEXw9AuUbzeP/AKr55RKfv0q7u177hnVBLI4hh7Ogw2Y\nSZSHPLime5KCjlZw1McY/ToGZidF0+QQqlKSimaRgnUBAGVGLDEyxfKq64J7onCI\nwJIEung5YCLFjMmTYJk+XdLAwPIAZ9BD2bl7dKAjAoGAOVlVKNgH/AMvqI3AXT1r\n23uZL4oG32oW+QWvMMBYltN9UnO29pDA5SihT/nxDNub84zzOdN2nFt/bUlZKaJT\nMLlw3CPRmV7THVPnBkGBsP9WfM+59KZdX+Bvd6yZq/IpMBkH+7V8G2wG/Abo/aRO\nQdAhHrFnCDJjEFireMRixdY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ace-162@ace-luxury-store.iam.gserviceaccount.com",
+  "client_id": "100866472008374479452",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ace-162%40ace-luxury-store.iam.gserviceaccount.com"
+}

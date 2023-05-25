@@ -1,0 +1,17 @@
+dl.driver-dl > dt{
+	margin-top: 10px;
+}
+
+span.driver-status{
+	text-transform: uppercase;
+	padding: 10px;
+}
+
+.scroll{
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.sink{
+	font-size: 1.1em;
+}
