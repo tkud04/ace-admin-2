@@ -31,8 +31,10 @@ use App\Models\Catalogs;
 use App\Models\OrderReviews;
 use Analytics;
 use Spatie\Analytics\Period;
+use Cloudinary\Cloudinary;
 use \Cloudinary\Api;
 use \Cloudinary\Api\Response;
+use \Cloudinary\Api\Upload\UploadApi;
 use GuzzleHttp\Client;
 use Image;
 
@@ -733,6 +735,7 @@ $subject = $data['subject'];
                                                       'sku' => $sku, 
                                                       'qty' => $data['qty'],                                                       
                                                       'added_by' => $data['user_id'],
+													  'in_catalog' => 'no',
                                                       'status' => "enabled", 
                                                       ]);
                                                       
@@ -1096,7 +1099,8 @@ $subject = $data['subject'];
           	$ret = [];
           	$dt = ['cloud_name' => "dahkzo84h"];
               $preset = "tsh1rffm";
-          	$rett = \Cloudinary\Uploader::unsigned_upload($path,$preset,$dt);
+			  $cloudinary = new Cloudinary();
+          	$rett = $cloudinary->uploadApi()->unsignedUpload($path,$preset,$dt);
                                                       
              return $rett; 
          }

@@ -6,10 +6,10 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
-        "guzzlehttp/guzzle": "^7.2",
         "ext-gd": "*",
-        "cloudinary/cloudinary_php": "dev-master",
+        "cloudinary/cloudinary_php": "^2.11",
         "codedge/laravel-fpdf": "^1.6",
+        "guzzlehttp/guzzle": "^7.7",
         "laravel/framework": "^9.2",
         "laravel/sanctum": "^2.14.1",
         "laravel/tinker": "^2.7"
